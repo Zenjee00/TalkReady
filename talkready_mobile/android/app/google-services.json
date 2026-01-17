@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "687695411049",
+    "project_id": "talkready-a8496",
+    "storage_bucket": "talkready-a8496.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687695411049:android:0f724b3f43b7cd4eb7aff8",
+        "android_client_info": {
+          "package_name": "com.example.talkready_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687695411049-1pmbkvckh08206bloi0uf2tt9hql0227.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkready_mobile",
+            "certificate_hash": "22a6aa44da466246ca8886ca0896032019712ed8"
+          }
+        },
+        {
+          "client_id": "687695411049-7utakhnt4jd8o2fq9e30vt03l264c9aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkready_mobile",
+            "certificate_hash": "728189d42313e87e2d2f5dcb1933bb7a9e753318"
+          }
+        },
+        {
+          "client_id": "687695411049-jjfe2sii1anie27fl6t3l826dhgbhgvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkready_mobile",
+            "certificate_hash": "606b424019ae7ce1ad7b721273060e3c2143f821"
+          }
+        },
+        {
+          "client_id": "687695411049-lmre9rhspfjd1dgq1a5lgcln647pirs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkready_mobile",
+            "certificate_hash": "e51980ca13d6111e700b7de414c5935e757214f5"
+          }
+        },
+        {
+          "client_id": "687695411049-cticpm42avjnm6t5qrj2bvv2i00ovoaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBqLsT9-MyLmY_RXj83kXOswmWbYlL3og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687695411049-cticpm42avjnm6t5qrj2bvv2i00ovoaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687695411049-qdmdb0nce6d2tbv6l021m0nt25s1p8ld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talkreadyMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
